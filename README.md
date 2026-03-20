@@ -133,6 +133,3 @@ Assignment_with_markdown.ipynb
 
 ---
 
-## 👤 Author
-
-[Your Name]
